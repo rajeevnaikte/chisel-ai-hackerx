@@ -11,7 +11,6 @@ Open a terminal here (clone directory) and move to folder movie-app (cd movie-ap
 npm install
 npm run build
 ```
-<br/>
 To build and run backend developed with Python 3 + virtualenv + Flask<br/>
 Open a terminal here (clone directory) and move to folder movie-app-server (cd movie-app-server) and install dependacies run with below commands<br/>
 ```
